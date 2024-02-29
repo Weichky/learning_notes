@@ -30,3 +30,9 @@
 `git pull 'repository' 'branch'`*下行*
 `git push 'repository' 'branch'`*上行*
 
+显示commit历史
+`git log`
+
+修改刚刚的commit
+`git commit --amend`
+
