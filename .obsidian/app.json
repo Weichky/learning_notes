@@ -1,1 +1,6 @@
-{}
+{
+  "showLineNumber": true,
+  "autoConvertHtml": true,
+  "spellcheck": false,
+  "livePreview": true
+}

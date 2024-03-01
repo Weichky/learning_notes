@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux_learning/Linux_learning.md",
+                "file": "mechanics_of_materials/Mechanics of Materials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7908a269b663fea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "markdown_and_HTML_learning/Markdown_and_HTML_learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux_learning/Linux_learning.md",
+                "file": "markdown_and_HTML_learning/Markdown_and_HTML_learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux_learning/Linux_learning.md",
+                "file": "markdown_and_HTML_learning/Markdown_and_HTML_learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux_learning/Linux_learning.md"
+                "file": "markdown_and_HTML_learning/Markdown_and_HTML_learning.md"
               }
             }
           }
@@ -146,9 +159,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2fa94b9ce2319c6b",
+  "active": "7908a269b663fea5",
   "lastOpenFiles": [
-    "git_learning/git_learning.md",
-    "README.md"
+    "mechanics_of_materials/Mechanics of Materials.md",
+    "markdown_and_HTML_learning/Markdown_and_HTML_learning.md",
+    "markdown_and_HTML_learning",
+    "Linux_learning/Linux_learning.md",
+    "README.md",
+    "fundamentals_of_materials/Fundamentals of Materials Science.md",
+    "git_learning/git_learning.md"
   ]
 }
