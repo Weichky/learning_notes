@@ -4,3 +4,6 @@ This repository is for Weichky's learning.
 include:
 - git learning
 - mathematical analysis
+- Linux learning
+- mechanics of materials
+- fundamentals of materials
