@@ -23,7 +23,7 @@
 应力从单位上看，不是力。`去除了力的大小对几何尺寸的依赖（截面面积越大，截面总力越大）`
 ``因此某种程度上可以认为p（压强）等比值定义的量可以认为是某点的该物理量大小``
 - 平均应力$$p_M=\frac{\Delta F}{\Delta A}$$
-- 一点的应力（全应力）$$p=\lim\limits_{\Delta A\rightarrow 0}\frac{\Delta F}{\Delta A}=\frac{dF}{dA}$$
+- 一点的应力（全应力）$$p=\lim\limits_{\Delta A\rightarrow 0}\frac{\Delta F}{\Delta A}=\frac{\rm dF}{\rm dA}$$
 通常把应力**p**分解成切向分量 $\tau$ `切应力`和法向分量 $\sigma$ `正应力`.
 
 应力描述物体强度.
@@ -35,7 +35,7 @@
 - 变形（deformation）`在外力作用下物体形状和尺寸发生改变`
 - 位移（displacement）`变形前后物体内一点位置的变化`
 - 应变（strain）`度量构件一点处的变形程度`
-	- 正应变`线应变`(normal strain) $$\epsilon=\lim\limits_{\Delta s\rightarrow0}\frac{\Delta u}{\Delta s}=\frac{du}{ds}$$
+	- 正应变`线应变`(normal strain) $$\epsilon=\lim\limits_{\Delta s\rightarrow0}\frac{\Delta u}{\Delta s}=\frac{\rm du}{\rm ds}$$
 	- 切应变`剪应变、角应变`（shearing strain）`单位体相邻棱边所夹直角的改变量`<br>用$\gamma$表示
 
 $\epsilon$描述尺寸的改变，$\gamma$描述形状的改变.
@@ -43,7 +43,7 @@ $\epsilon$描述尺寸的改变，$\gamma$描述形状的改变.
 应变量描述物体刚性.
 
 ### 胡克定律
-$$\sigma=E\epsilon$$
+$$\sigma=E\varepsilon$$
 `E称为弹性模量（杨氏模量）`
 $$\tau=G\gamma$$`G称为切变模量（剪切弹性模量）`
 
