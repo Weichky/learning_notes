@@ -26,6 +26,9 @@
 添加标签
 `git tag 'tag'`
 
+添加远程仓库
+`git remote add '仓库名' 'url'`
+
 同步远程仓库
 `git pull 'repository' 'branch'`*下行*
 `git push 'repository' 'branch'`*上行*

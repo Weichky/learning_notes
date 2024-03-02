@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python_Learning.md",
+                "file": "git_learning/git_learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python_Learning.md",
+                "file": "git_learning/git_learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python_Learning.md",
+                "file": "git_learning/git_learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python_Learning.md"
+                "file": "git_learning/git_learning.md"
               }
             }
           }
@@ -173,12 +173,12 @@
   },
   "active": "df3306bdd4505113",
   "lastOpenFiles": [
+    "mechanics_of_materials/Mechanics of Materials.md",
+    "python_learning/Python_Learning.md",
     "git_learning/git_learning.md",
-    "Python_Learning.md",
     "python_learning",
     "Linux_learning/Linux_learning.md",
     "mathematical_analysis/数学分析.md",
-    "mechanics_of_materials/Mechanics of Materials.md",
     "README.md",
     "markdown_and_HTML_learning/Markdown_and_HTML_learning.md",
     "markdown_and_HTML_learning",
