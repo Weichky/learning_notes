@@ -10,3 +10,4 @@ include:
 - mechanics of materials
 - fundamentals of materials
 - physics chemistry of materials
+- fundamentals of mechanical design
