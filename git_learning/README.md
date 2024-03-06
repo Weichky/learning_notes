@@ -43,4 +43,12 @@
 `git fetch --all`
 `git reset --hard main`
 
+设置代理
+`git config --global http.proxy 127.0.0.1:xxxx`
+`git config --global https.proxy 127.0.0.1:xxxx`
 
+查看代理
+参数`--get`
+
+取消代理
+参数`--unset`

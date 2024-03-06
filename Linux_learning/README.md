@@ -116,3 +116,11 @@ Linux进程信号
 测试可以使用`xarclock`*一个显示时钟的小程序*
 
 每次vi要输入`xhost +`开放权限，允许所有用户（包括docker）访问X11的显示接口.
+
+## 系统相关
+systemctl
+- `start/stop`启动/结束服务
+- `status`检查状态
+- `reload/restart`重载/重启
+- `kill`
+- `enable/disable`引导时启用/禁用
