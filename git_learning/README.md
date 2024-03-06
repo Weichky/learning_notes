@@ -39,3 +39,8 @@
 修改刚刚的commit
 `git commit --amend`
 
+强制版本覆盖
+`git fetch --all`
+`git reset --hard main`
+
+
