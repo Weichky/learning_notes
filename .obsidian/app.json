@@ -2,5 +2,6 @@
   "showLineNumber": true,
   "autoConvertHtml": true,
   "spellcheck": false,
-  "livePreview": true
+  "livePreview": true,
+  "readableLineLength": false
 }
