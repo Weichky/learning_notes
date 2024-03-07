@@ -52,3 +52,8 @@
 
 取消代理
 参数`--unset`
+
+设置`config`
+`--list`
+`user.name`
+`user.email`
