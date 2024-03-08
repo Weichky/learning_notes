@@ -82,4 +82,3 @@ void Widget::on_cancelButton_clicked(){
 }
 ```
 
-s
