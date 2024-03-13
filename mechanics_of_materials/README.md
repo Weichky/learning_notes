@@ -91,6 +91,6 @@ $$F_s=F_s(x),\quad M=M(x)$$
 
 若载荷为集中力或集中力偶，则图中有突变，x取值不能等于突变点
 
-![[img_1 1.jpg]]
+![简易法图](/images/img_1.jpg)
 
 $$\frac{{\rm d}F_s(x)}{{\rm d}x}=q(x),\quad \frac{{\rm d}M(x)}{{\rm dx}}=F_s(x),\quad \frac{{\rm d^2}M(x)}{{\rm d}x^2}=q(x)$$
