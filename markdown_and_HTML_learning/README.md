@@ -36,7 +36,7 @@
 |    \psi     |    $\psi$     |   $\Psi$   |                   |
 |   \omega    |   $\omega$    |  $\Omega$  |                   |
 
-##### 数学
+### 数学
 - `$ $`行内公式
 - `$$ $$`公式块
 
@@ -123,6 +123,11 @@
 - `\therefore`
 - `\forall`任意
 - `\exist`存在
+
+### 常用功能
+插入图片
+`![alt](path "title")`
+![afterClass](images/afterClass.jpg)
 ## HTML
 #### 基本知识
 - 标签通常成对出现
@@ -140,4 +145,5 @@
 - `<br>`换行
 
 #### \<img>
-`<img src="url" alt="some text" width="nub" height="unb">`
+`<img src="url" alt="some text" width="nub" height="unb" >`
+<img src="./images/afterClass.jpg" alt="after class">
