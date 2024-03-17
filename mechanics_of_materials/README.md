@@ -94,3 +94,12 @@ $$F_s=F_s(x),\quad M=M(x)$$
 ![简易法图](images/img1.jpg)
 
 $$\frac{{\rm d}F_s(x)}{{\rm d}x}=q(x),\quad \frac{{\rm d}M(x)}{{\rm dx}}=F_s(x),\quad \frac{{\rm d^2}M(x)}{{\rm d}x^2}=q(x)$$
+## 杆件的应力与强度计算
+$$F_N=\int_{A}\!\sigma{\rm d}A=\sigma\!\int_{A}{\rm d}A=\sigma\!A$$
+$$\sigma=\frac{F}{A},\quad\sigma_\max=\frac{F_\max}{A}$$
+当截面为斜面时，内力并没有因此加大.
+$$P_\alpha=\frac{F}{A}\cos\alpha=\sigma\cos^2\alpha$$
+把应力$p_\alpha$分解成垂直于斜截面的正应力$\sigma_\alpha$和切于斜截面的切应力$\tau_\alpha$.
+$$\begin{aligned}&\sigma_\alpha=p_\alpha\cos\alpha=\sigma\cos^2\alpha\\&\tau_\alpha=p_\alpha\sin\alpha=\sigma\cos\alpha\sin\alpha=\frac{\sigma}{2}\sin2\alpha\end{aligned}$$
+![斜面应力分解](images/img2.png)
+规定正应力为拉应力，切应力以$\vec{n}$顺时针旋转$90^\circ$的指向为正

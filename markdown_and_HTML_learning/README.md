@@ -70,7 +70,7 @@
 - 方框`\boxed{}`$$\begin{aligned}\boxed{x^2+y^2=z^2}\end{aligned}$$
 
 - `\begin{}`与`\end{}`
-	- {align}`最基本的对齐环境`
+	- {aligned}`最基本的对齐环境`
 	- 环境（大括号）`{cases}`参考示例：<br>`$$y=\begin{cases}-x,\quad x\leq0\\x,\quad x\geq0\end{cases}$$`$$y=\begin{cases}-x,\quad x\leq0\\x,\quad x\geq0\end{cases}$$
 	- 矩阵$$\begin{bmatrix}1&2&3\\4&567&8.91\\7&8&9\end{bmatrix}$$
 		- `matrix`无括号
@@ -146,4 +146,5 @@
 
 #### \<img>
 `<img src="url" alt="some text" width="nub" height="unb" >`
+	- `obsidian中可能无法显示`
 <img src="./images/afterClass.jpg" alt="after class">
