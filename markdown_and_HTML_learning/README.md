@@ -118,6 +118,7 @@
 - `\prime`一阶导数
 - `\oint`曲线积分
 - `\nabla`梯度
+- `\partial`偏导
 
 - `\because`
 - `\therefore`
@@ -148,3 +149,6 @@
 `<img src="url" alt="some text" width="nub" height="unb" >`
 	- `obsidian中可能无法显示`
 <img src="./images/afterClass.jpg" alt="after class">
+
+#### <\a>
+`<a href="url">something<\a>`
