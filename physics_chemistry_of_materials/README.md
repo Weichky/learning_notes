@@ -78,4 +78,6 @@ $$\begin{aligned}\because{\rm d}H&={\rm d}U+{\rm d}(pV)={\rm d}U+{\rm d}(nRT)\\\
 - 理想气体的热容与温度无关，对于单原子分子理想气体$C_{p,m}=2.5R$，双原子分子理想气体$C_{p,m}=3.5R$
 - 实际物质的热容均与温度有关且符合下列经验式：$$C_{p,m}=a+bT+c^\prime T^{-2}(或cT^2)$$式中$a、b、c、c^\prime$皆为经验常数，高温下一般取$c^\prime T^{-2}$
 
-由$C_V=(\frac{\partial U}{\partial T})_V$得$\delta Q_V={\rm d}U=C_V{\rm d}T$，同理
+由$C_V=(\frac{\partial U}{\partial T})_V$得$\delta Q_V={\rm d}U=C_V{\rm d}T$，同理得：$$\begin{aligned}&Q_V=\Delta V=\int_{T_1}^{T_2}C_V{\rm d}T\quad或\\&Q_p=\Delta H=\int_{T_1}^{T2}C_p{\rm d}T\end{aligned}$$
+将$C_{p,m}$公式代入积分.
+若有相变，需要分段积分，并要加上相变潜热.$$\begin{aligned}H(g,T{\rm K})-H(s,0{\rm K})=&\int_0^{T_{trs}}C_p({\rm I}){\rm d}T+\Delta_{trs}H+\int_{T_{trs}}^{T_{fus}}C_p({\rm II}){\rm d}T+\Delta_{fus}H\\&+\int_{T_{fus}}^{T_b}C_p({\rm I}){\rm d}T+\Delta_{vap}H+\int_{T_b}^TC_p({g}){\rm d}T\end{aligned}$$
