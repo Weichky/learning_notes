@@ -118,9 +118,17 @@ Linux进程信号
 每次vi要输入`xhost +`开放权限，允许所有用户（包括docker）访问X11的显示接口.
 
 ## 系统相关
-systemctl
+#### systemctl
 - `start/stop`启动/结束服务
 - `status`检查状态
 - `reload/restart`重载/重启
 - `kill`
 - `enable/disable`引导时启用/禁用
+#### 配置环境变量
+<a href="https://blog.csdn.net/u011630575/article/details/49839893">Linux中修改环境变量（永久、临时)</a>
+<a href="https://blog.csdn.net/K_K_yl/article/details/119756206">四种方法</a>
+>echo $PATH 可以查看环境变量
+>export指令只对当前shell有效
+>/etc/profile也不好使
+>直接改/etc/environment就挺好，分割符`:`
+

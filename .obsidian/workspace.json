@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "255430654c3ec248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "physics_chemistry_of_materials/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8e5d2904f42e5df9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown_and_HTML_learning/README.md",
+                "file": "fundamentals_of_materials/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physics_chemistry_of_materials/README.md",
+                "file": "fundamentals_of_materials/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physics_chemistry_of_materials/README.md",
+                "file": "fundamentals_of_materials/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physics_chemistry_of_materials/README.md"
+                "file": "fundamentals_of_materials/README.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,15 +146,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "255430654c3ec248",
+  "active": "8e5d2904f42e5df9",
   "lastOpenFiles": [
-    "markdown_and_HTML_learning/README.md",
     "physics_chemistry_of_materials/README.md",
+    "engineering_thermodynamics/README.md",
+    "Linux_learning/README.md",
+    "TensorFlow_learning/README.md",
+    "markdown_and_HTML_learning/README.md",
     "Qt_learning/README.md",
     "fundamentals_of_mechanical_design/README.md",
     "mechanics_of_materials/README.md",
-    "Linux_learning/README.md",
-    "TensorFlow_learning/README.md",
     "TensorFlow_learning",
     "mechanics_of_materials/images/img_1.jpg",
     "mechanics_of_materials/images",
