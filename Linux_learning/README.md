@@ -132,3 +132,6 @@ Linux进程信号
 >/etc/profile也不好使
 >直接改/etc/environment就挺好，分割符`:`
 
+##### 添加applications
+><a href="https://www.jianshu.com/p/f2598ff7c16f">在linux中添加应用程序到applications列表</a>
+
