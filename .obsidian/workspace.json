@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fundamentals_of_materials/README.md",
+                "file": "TensorFlow_learning/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cc13dab87b93df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TensorFlow_learning/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4b439a91f1d2e098",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fundamentals_of_materials/README.md",
+                "file": "TensorFlow_learning/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fundamentals_of_materials/README.md",
+                "file": "TensorFlow_learning/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fundamentals_of_materials/README.md"
+                "file": "TensorFlow_learning/README.md"
               }
             }
           }
@@ -146,14 +159,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8e5d2904f42e5df9",
+  "active": "4cc13dab87b93df1",
   "lastOpenFiles": [
+    "markdown_and_HTML_learning/README.md",
+    "TensorFlow_learning/README.md",
+    "python_learning/README.md",
     "Linux_learning/README.md",
     "fundamentals_of_materials/README.md",
     "physics_chemistry_of_materials/README.md",
     "engineering_thermodynamics/README.md",
-    "TensorFlow_learning/README.md",
-    "markdown_and_HTML_learning/README.md",
     "Qt_learning/README.md",
     "fundamentals_of_mechanical_design/README.md",
     "mechanics_of_materials/README.md",

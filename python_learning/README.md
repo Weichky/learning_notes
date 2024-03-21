@@ -29,3 +29,5 @@
 `print()`
 
 # 正则表达式
+# 模块
+`jupyter notebook`启动jupyter notebook

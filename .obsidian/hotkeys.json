@@ -1,0 +1,26 @@
+{
+  "workspace:edit-file-title": [],
+  "editor:insert-link": [],
+  "app:open-help": [],
+  "editor:follow-link": [],
+  "app:open-settings": [],
+  "app:go-back": [],
+  "workspace:close-window": [],
+  "graph:open": [],
+  "editor:toggle-bold": [],
+  "switcher:open": [],
+  "command-palette:open": [],
+  "app:go-forward": [],
+  "markdown:toggle-preview": [],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:toggle-italics": [],
+  "editor:delete-paragraph": []
+}
