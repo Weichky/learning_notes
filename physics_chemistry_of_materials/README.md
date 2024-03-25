@@ -87,3 +87,14 @@ $$\begin{aligned}&\because{\rm d}H={\rm d}U+{\rm d}(pV)={\rm d}U+{\rm d}(nRT)\\&
 #### 热力学第一定律对理想气体的应用
 - 焦耳实验：$水浴Q=0,真空膨胀\Delta U=Q+W=0$<br>得出U和H都只是温度的函数 __理想气体情况下__
 - 绝热状态$$T_1V_1^{\gamma-1}=T_2V_2^{\gamma-1},\quad其中\frac{C_{p,m}}{C_{V,m}}=\gamma,\ TV^{\gamma-1}=常数$$
+## 热力学第二定律
+自发过程`不需要环境做功而能自动进行的过程`
+自发过程的共同特征：不可逆性.
+自发过程的限度：平衡状态.
+
+克劳修斯的表述指出热传递的不可逆性，开尔文的表述指出了热功转换的不可逆性.这两者表述是等价的.
+#### 卡诺定理
+$$\eta\overset{def}{=}\frac{-W}{Q_1}=\frac{Q_1+Q_2}{Q_1}$$
+可逆热机效率与高温热源T1及低温热源T2有关$$\eta\leq\eta_r=\frac{T_1-T_2}{T_1}$$
+热温商$$\frac{Q_1}{T_1}+\frac{Q_2}{T_2}\leq0\quad其中Q/T称为热温商$$
+熵定义$$\boxed{\begin{aligned}&{\rm d}S\overset{def}{=}\frac{\delta Q_r}{T}\\或\quad&\Delta S=\int_A^B\frac{\delta Q_r}{T}\end{aligned}}$$有**克劳修斯不等式**$$\oint\frac{\delta Q_{ir}}{T}\leq0\quad(当相等时为可逆过程)$$
