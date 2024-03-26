@@ -62,3 +62,4 @@ $\Delta b$为容忍程度，存在是为了更加准确，避免偶然和混淆.
 softmax分类器$$data\rightarrow x\overset{exp}{\longrightarrow}e^x\overset{normalize}{\longrightarrow}probability$$
 计算损失值$$L_i=-\log{P(Y=y_i|X=x_i)}$$
 ### 反向传播
+# 回去补偏导数！

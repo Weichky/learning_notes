@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TensorFlow_learning/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TensorFlow_learning/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TensorFlow_learning/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TensorFlow_learning/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,22 +159,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4cc13dab87b93df1",
+  "active": "05d5de83c9e00927",
   "lastOpenFiles": [
-    "markdown_and_HTML_learning/README.md",
+    "images/wenen.jpg",
+    "images/116736292_p0_master1200.jpg",
+    "images",
     "TensorFlow_learning/README.md",
+    "engineering_thermodynamics/README.md",
+    "physics_chemistry_of_materials/README.md",
+    "fundamentals_of_mechanical_design/README.md",
+    "fundamentals_of_materials/README.md",
+    "mathematical_analysis/README.md",
+    "markdown_and_HTML_learning/README.md",
+    "README.md",
     "python_learning/README.md",
     "Linux_learning/README.md",
-    "fundamentals_of_materials/README.md",
-    "physics_chemistry_of_materials/README.md",
-    "engineering_thermodynamics/README.md",
     "Qt_learning/README.md",
-    "fundamentals_of_mechanical_design/README.md",
     "mechanics_of_materials/README.md",
     "TensorFlow_learning",
     "mechanics_of_materials/images/img_1.jpg",
     "mechanics_of_materials/images",
-    "README.md",
     "Qt_learning",
     "git_learning/README.md",
     "cpp_learning/README.md",
