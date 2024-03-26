@@ -88,3 +88,13 @@ $$\Delta e=\Delta u+\frac{1}{2}\Delta c_f^2+g\Delta z$$
 闭口系统简化为$$+Q-W=\Delta U$$
 微元$$\delta Q={\rm d}U+\delta W$$
 #### 开口系统工质的稳定流动
+流动功`推动功`$$w_f=\frac{\delta W_1}{{\rm d}m}=pv$$
+$\tau$时间内，进入或离开$$Q+W+m(u+\frac{1}{2}c^2+gz)+mpv$$
+$$\Delta E=\iiint_{\Delta V}e\rho{\rm d}V=0$$
+通常$$Q_{in}>Q_{out},\quad W_{in}<W_{out}$$
+令$$h=u+pv$$
+h称为**比焓**，比焓是状态参数.焓描述流动工质的能量.
+对于$Q_{out}$与$W_{in}$为0的情况，令$H=mh$,$$\begin{aligned}Q=&m\Delta h+\frac{1}{2}m\Delta c_f^2+mg\Delta z+W_s\\=&\Delta H+\frac{1}{2}m\Delta c_f^2+mg\Delta z+W_s\end{aligned}$$
+定义技术功`其中轴功是表观功，动能差和势能差可以通过其他方式利用，如传递给下一级`$$W_t=\frac{1}{2}m\Delta c_f^2+mg\Delta z+W_s$$
+
+
