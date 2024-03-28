@@ -102,4 +102,22 @@ $$P_\alpha=\frac{F}{A}\cos\alpha=\sigma\cos^2\alpha$$
 把应力$p_\alpha$分解成垂直于斜截面的正应力$\sigma_\alpha$和切于斜截面的切应力$\tau_\alpha$.
 $$\begin{aligned}&\sigma_\alpha=p_\alpha\cos\alpha=\sigma\cos^2\alpha\\&\tau_\alpha=p_\alpha\sin\alpha=\sigma\cos\alpha\sin\alpha=\frac{\sigma}{2}\sin2\alpha\end{aligned}$$
 ![斜面应力分解](images/img2.png)
-规定正应力为拉应力，切应力以$\vec{n}$顺时针旋转$90^\circ$的指向为正
+规定正应力为拉应力，切应力以$\vec{n}$顺时针旋转$90^\circ$的指向为正.
+### 材料在拉伸与压缩时的力学性能
+### 失效、许用应力与强度条件
+### 圆轴扭转时的切应力与强度条件
+
+**！！！基于平面假设！！！**
+有扭转角$\varphi$，倾角`切应变`$\gamma$，单位长度扭转角$\frac{{\rm d}\varphi}{{\rm d}x}$
+#### 物理关系
+由剪切胡克定律有$$\tau_\rho=G\gamma_\rho=G\rho\frac{{\rm d}\varphi}{{\rm d}x}$$
+#### 静力学关系
+有截面扭矩$$T=\int_A\rho\tau_\rho{\rm d}A=G\frac{{\rm d}\varphi}{{\rm d}x}\int_A\rho^2{\rm d}A$$
+若令横截面对圆心的极惯性矩$$I_p=\int_A\rho^2{\rm d}A$$
+则$$\frac{{\rm d}\varphi}{{\rm d}x}=\frac{T}{GI_p}$$
+回代则有$$\tau_\rho=\frac{T\rho}{I_p}$$
+令扭转截面系数$W_p=I_p/R$，则$$\tau_\max=\frac{T}{W_p}$$
+*只适用于横截面不变的 空心/实心 直圆轴，可适用缓慢变化的小锥度杆*
+
+
+### 梁弯曲时的正应力
