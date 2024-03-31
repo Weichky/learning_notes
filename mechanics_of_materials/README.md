@@ -121,3 +121,19 @@ $$\begin{aligned}&\sigma_\alpha=p_\alpha\cos\alpha=\sigma\cos^2\alpha\\&\tau_\al
 
 
 ### 梁弯曲时的正应力
+### 轴向拉伸或压缩时的变形
+$$\Delta l=\frac{FL}{EA}$$
+其中EA称为抗拉（压）刚度.
+
+$$\vert\frac{\varepsilon^\prime}{\varepsilon}\vert=v$$
+横向正应变与轴向正应变有$$\varepsilon^\prime=-v\varepsilon$$
+其中v称为横向变形因数或**泊松比**，无量纲.对于绝大多数各向同性材料，$0<v<0.5$
+
+$$G=\frac{E}{2(1+v)}$$
+### 扭转变形与刚度条件
+若扭矩不变$$\varphi=\frac{Tl}{GI_p}$$
+其中$GI_p$称为抗扭刚度.
+
+对薄壁圆筒有$$\varphi=\frac{Tl}{2G\pi R^3_0t}$$
+求关于x的$\varphi$的导数，得到单位长度扭转角$$\varphi^\prime=\frac{T}{GI_p}$$
+### 梁的变形，挠曲线微分方程及其积分
