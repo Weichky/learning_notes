@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "markdown_and_HTML_learning/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cc13dab87b93df1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mechanics_of_materials/README.md",
+                "file": "fundamentals_of_materials/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mechanics_of_materials/README.md",
+                "file": "fundamentals_of_materials/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mechanics_of_materials/README.md",
+                "file": "fundamentals_of_materials/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mechanics_of_materials/README.md"
+                "file": "fundamentals_of_materials/README.md"
               }
             }
           }
@@ -159,12 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4cc13dab87b93df1",
+  "active": "8e5d2904f42e5df9",
   "lastOpenFiles": [
-    "mathematical_analysis/README.md",
-    "mechanics_of_materials/README.md",
+    "fundamentals_of_mechanical_design/README.md",
+    "git_learning/README.md",
     "fundamentals_of_materials/README.md",
     "markdown_and_HTML_learning/README.md",
+    "mechanics_of_materials/README.md",
+    "mathematical_analysis/README.md",
     "fundamentals_of_materials/images/img3.jpeg",
     "fundamentals_of_materials/images/valence.jpeg",
     "TensorFlow_learning/README.md",
@@ -174,7 +163,6 @@
     "images",
     "engineering_thermodynamics/README.md",
     "physics_chemistry_of_materials/README.md",
-    "fundamentals_of_mechanical_design/README.md",
     "python_learning/README.md",
     "Linux_learning/README.md",
     "Qt_learning/README.md",
@@ -182,7 +170,6 @@
     "mechanics_of_materials/images/img_1.jpg",
     "mechanics_of_materials/images",
     "Qt_learning",
-    "git_learning/README.md",
     "cpp_learning/README.md",
     "cpp_learning",
     "physics_chemistry_of _materials/Physical Chemistry of Materials.md",
