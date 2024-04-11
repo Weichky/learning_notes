@@ -1,4 +1,4 @@
-### 基本假设
+****### 基本假设
 - 连续性假设
 - 均匀性假设
 - 各向同性假设
@@ -116,11 +116,15 @@ $$\begin{aligned}&\sigma_\alpha=p_\alpha\cos\alpha=\sigma\cos^2\alpha\\&\tau_\al
 若令横截面对圆心的极惯性矩$$I_p=\int_A\rho^2{\rm d}A$$
 则$$\frac{{\rm d}\varphi}{{\rm d}x}=\frac{T}{GI_p}$$
 回代则有$$\tau_\rho=\frac{T\rho}{I_p}$$
-令扭转截面系数$W_p=I_p/R$，则$$\tau_\max=\frac{T}{W_p}$$
+当$\rho$取最大值$R$时，令扭转截面系数$W_p=I_p/R$，则$$\tau_\max=\frac{T}{W_p}$$
 *只适用于横截面不变的 空心/实心 直圆轴，可适用缓慢变化的小锥度杆*
-
+实心圆截面的极惯性矩与扭转截面系数为$$I_p=\frac{\pi D^4}{32},\quad W_p=\frac{\pi D^3}{16}$$
+若令空心圆截面的内外径分别为d、D，其比值为$\alpha=\frac{d}{D}$，则其极惯性矩与扭转截面系数为$$I_p=\frac{\pi D^4}{32}(1-\alpha^4),\quad W_p=\frac{\pi D^3}{16}(1-\alpha^4)$$
 
 ### 梁弯曲时的正应力
+![梁弯曲示意图](images/img3.jpg)
+长度不变称为中性层.
+中性层与中性轴的交线称为中性轴.
 ### 轴向拉伸或压缩时的变形
 $$\Delta l=\frac{FL}{EA}$$
 其中EA称为抗拉（压）刚度.

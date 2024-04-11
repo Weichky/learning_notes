@@ -96,6 +96,7 @@ $$\Delta E=\iiint_{\Delta V}e\rho{\rm d}V=0$$
 h称为**比焓**，比焓是状态参数.焓描述流动工质的能量.
 对于$Q_{out}$与$W_{in}$为0的情况，令$H=mh$,$$\begin{aligned}Q=&m\Delta h+\frac{1}{2}m\Delta c_f^2+mg\Delta z+W_s\\=&\Delta H+\frac{1}{2}m\Delta c_f^2+mg\Delta z+W_s\end{aligned}$$
 定义技术功`其中轴功是表观功，动能差和势能差可以通过其他方式利用，如传递给下一级`$$W_t=\frac{1}{2}m\Delta c_f^2+mg\Delta z+W_s$$
+$$\begin{aligned}w&=(p_2v_2-p_1v_1)+w_t\\w_t&=w-(p_2v_2-p_1v_1)\end{aligned}$$
 ## 理想气体的性质与热力过程
 $$pV=mR_gT$$其中$R_g$取决于气体种类.
 
