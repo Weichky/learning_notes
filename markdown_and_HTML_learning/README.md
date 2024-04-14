@@ -170,3 +170,6 @@
 #### <\a>
 `<a href="url">something<\a>`
 <a href="https://www.bing.com">微软必应</a>
+
+#### \<iframe>
+`<iframe src="path" width="nub" height="nub">something</iframe>`
