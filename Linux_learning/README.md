@@ -29,6 +29,8 @@
 - `-i`问询
 - `-r`递归删除目录下所有文件，最后删除该目录
 
+`chmod` 
+><a href="https://www.runoob.com/linux/linux-comm-chmod.html">文件权限管理</a>
 ### 进程管理
 `ps` 静态显示进程
 `top`动态显示进程
